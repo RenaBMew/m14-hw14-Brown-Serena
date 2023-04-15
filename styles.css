@@ -1,0 +1,40 @@
+html {
+    scroll-padding-top: 5rem;
+}
+
+nav a {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.modal-backdrop {
+    z-index: 1020;
+}
+
+.dropdown-item {
+    color: var(--bs-gray-500);
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+a:hover {
+    color:white;
+    background-color: #539c9e;
+}
+
+.dropdown-menu a:hover {
+    color: white;
+    background-color: #539c9e;
+}
+
+h1 {
+    color: #539c9e;
+}
+
+h2, h5 {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #539c9e;
+}
